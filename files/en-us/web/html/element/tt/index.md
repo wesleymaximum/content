@@ -141,3 +141,4 @@ Although this element wasn't officially deprecated in HTML 4.01, its use was dis
 
 - The semantic {{HTMLElement("code")}}, {{HTMLElement("var")}}, {{HTMLElement("kbd")}}, and {{HTMLElement("samp")}} elements
 - The {{HTMLElement("pre")}} element for displaying preformatted text blocks
+;)
